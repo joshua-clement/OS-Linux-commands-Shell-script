@@ -42,7 +42,7 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-![Alt text](../img/1.png)
+![Alt text](/home/joshua/os/ex01/OS-Linux-commands-Shell-script/img/1.png)
 
 
 cat < file2
