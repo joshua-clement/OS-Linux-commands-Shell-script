@@ -52,10 +52,10 @@ cat < file2
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
-![Alt text](../img/3.png)
+![Alt text](img/3.png)
 comm file1 file2
  ## OUTPUT
-![Alt text](../img/4.png)
+![Alt text](img/4.png)
  
 diff file1 file2
 ## OUTPUT
