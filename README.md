@@ -42,12 +42,12 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-![Alt text](OS-Linux-commands-Shell-script/img/1.png)
+![Alt text](img/1.png)
 
 
 cat < file2
 ## OUTPUT
-![Alt text](../img/2.png)
+![Alt text](img/2.png)
 
 # Comparing Files
 cmp file1 file2
